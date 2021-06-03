@@ -1,0 +1,15 @@
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek.csprojAssemblyReference.cache
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\MainWindow.g.cs
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\App.g.cs
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek_MarkupCompile.cache
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek_MarkupCompile.lref
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\bin\Debug\Autosjatek.exe.config
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\bin\Debug\Autosjatek.exe
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\bin\Debug\Autosjatek.pdb
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\MainWindow.baml
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek.g.resources
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek.Properties.Resources.resources
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek.csproj.GenerateResource.cache
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek.csproj.CoreCompileInputs.cache
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek.exe
+D:\Iskola\programozás\prog\házi\wpf\kész\Autosjatek\Autosjatek\obj\Debug\Autosjatek.pdb
